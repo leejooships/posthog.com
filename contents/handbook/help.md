@@ -56,19 +56,19 @@ A beginner's guide to some of our custom Slack emojis and various anecdotes you'
 
 * <Emoji name="bad-internet" src="/images/emojis/bad-internet.png" /> Yakko always had bad internet when demoing. <em>Always.</em>
 
-* [Jams](/community/profiles/90) wore a skin tight green all-body suit for months to improve his Zoom background game without us realizing.
+* [James](/community/profiles/90) wore a skin tight green all-body suit for months to improve his Zoom background game without us realizing.
 
-* <Emoji name="ben-peace" src="/images/emojis/ben-peace.png" /> Ben has the same pose in 90% of PostHog photos. It's a reference to a meme.
+* <Emoji name="ben-peace" src="/images/emojis/ben-peace.png" /> [Ben](https://posthog.com/community/profiles/30205) has the same pose in 90% of PostHog photos. It's a reference to a meme.
 
 * <Emoji name="hype-X" src="/images/emojis/lottie-hype.gif" /> where X is a team member. Used in times of extremely impressive performance, unless used sarcastically.
 
 * Mr Blobby. We once changed how we ingest session recording data, to use S3 blob storage. We called it Mr Blobby. [Mr Blobby](https://en.wikipedia.org/wiki/Mr_Blobby) is a creepy '90s TV character from the UK. This project was nightmarishly hard, which is why this character was fitting.
 
-* Paul will make you eat gelato at every offsite.
+* [Paul](https://posthog.com/community/profiles/30173) will make you eat gelato at every offsite.
 
 * Sometimes people screenshot each other's faces and Zoom screens and use them as their backgrounds. Usually when an all-hands is too dry.
 
-* Charles wore a suit to his performance review. He is the only person in history to wear a suit to anything PostHog-related. Unsure if he was making a point, we later abandoned the practice of performance reviews regardless.
+* [Charles](https://posthog.com/community/profiles/28625) wore a suit to his performance review. He is the only person in history to wear a suit to anything PostHog-related. Unsure if he was making a point, we later abandoned the practice of performance reviews regardless.
 
 * We took lots of buses at an offsite in Portugal. The roads were incredibly twisty, the driver was in a bad mood, drove too quickly, and people threw up. It was bad.
 
